@@ -10,6 +10,6 @@ public class Main
 	    double radius = myObj.nextInt();
 	    final double pi = 3.14159265359;
 	    double area = pi*Math.pow(radius,2);
-		System.out.println("Area of the circle is: " + area);
+	    System.out.println("Area of the circle is: " + area);
 	}
 }
